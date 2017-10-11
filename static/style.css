@@ -1,0 +1,20 @@
+.error{
+    color: red;
+}
+
+h1{
+    text-align: center;
+    color: #2c5db8;
+}
+            
+textarea{
+    margin: 10px 0;
+    width: 540px;
+    height: 120px;
+}
+
+p{
+    font-size: 16px;
+    color: #2c5db8;
+    font-family: Times New Roman;
+}
